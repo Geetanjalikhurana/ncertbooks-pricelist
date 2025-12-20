@@ -1,0 +1,36 @@
+BookName,Class,Price,Image
+Mathematics,1,120,maths.jpg
+English,1,100,english.jpg
+EVS,1,90,evs.jpg
+Mathematics,2,140,maths_2.jpg
+English,2,120,english_2.jpg
+EVS,2,100,evs_2.jpg
+Mathematics,3,180,maths_3.jpg
+Science,3,200,science_3.jpg
+English,3,150,english_3.jpg
+Mathematics,4,210,maths_4.jpg
+Science,4,230,science_4.jpg
+Social Science,4,220,sst_4.jpg
+Mathematics,5,250,maths_5.jpg
+Science,5,260,science_5.jpg
+English,5,200,english_5.jpg
+Mathematics,6,300,maths_6.jpg
+Science,6,320,science_6.jpg
+History,6,280,history_6.jpg
+Geography,6,290,geography_6.jpg
+Mathematics,7,350,maths_7.jpg
+Science,7,370,science_7.jpg
+History,7,330,history_7.jpg
+Geography,7,340,geography_7.jpg
+Mathematics,8,400,maths_8.jpg
+Science,8,420,science_8.jpg
+History,8,380,history_8.jpg
+Geography,8,390,geography_8.jpg
+Physics,11,450,physics_11.jpg
+Chemistry,11,460,chemistry_11.jpg
+Biology,11,470,biology_11.jpg
+Physics,12,500,physics_12.jpg
+Chemistry,12,520,chemistry_12.jpg
+Biology,12,540,biology_12.jpg
+UPSE 40 ,6 TO 12,3200,upse_40.jpg
+UPSE 35,6 TO 12,2900,upse_35.jpg
