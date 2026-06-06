@@ -36,12 +36,10 @@ public class BookService {
         books.add(new Book("Mathematics", 6, 300, "maths_6.jpg"));
         books.add(new Book("Science", 6, 320, "science_6.jpg"));
         books.add(new Book("History", 6, 280, "history_6.jpg"));
-        books.add(new Book("Geography", 6, 290, "geography_6.jpg"));
 
         books.add(new Book("Mathematics", 7, 350, "maths_7.jpg"));
         books.add(new Book("Science", 7, 370, "science_7.jpg"));
         books.add(new Book("History", 7, 330, "history_7.jpg"));
-        books.add(new Book("Geography", 7, 340, "geography_7.jpg"));
 
         books.add(new Book("Mathematics", 8, 400, "maths_8.jpg"));
         books.add(new Book("Science", 8, 420, "science_8.jpg"));
